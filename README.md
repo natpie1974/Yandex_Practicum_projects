@@ -8,3 +8,5 @@
 [Работа с текстами](https://github.com/natpie1974/Yandex_Practicum_projects/tree/main/Working_with_text)
 
 [Определение стоимости автомобилей](https://github.com/natpie1974/Yandex_Practicum_projects/tree/main/Valuation_of_vehicles)
+
+[Оценка рисков ДТП](https://github.com/natpie1974/Yandex_Practicum_projects/tree/main/Risk_assessment)
