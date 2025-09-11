@@ -5,4 +5,4 @@
 
 [Предсказание температуры звезды](https://github.com/natpie1974/Yandex_Practicum_projects/tree/main/Stars_temperature_prediction)
 
-
+[Работа с текстами](https://github.com/natpie1974/Yandex_Practicum_projects/tree/main/Working_with_text)
