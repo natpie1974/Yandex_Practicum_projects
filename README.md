@@ -10,3 +10,5 @@
 [Определение стоимости автомобилей](https://github.com/natpie1974/Yandex_Practicum_projects/tree/main/Valuation_of_vehicles)
 
 [Оценка рисков ДТП](https://github.com/natpie1974/Yandex_Practicum_projects/tree/main/Risk_assessment)
+
+[Компьютерное зрение (CV)](https://github.com/natpie1974/Yandex_Practicum_projects/tree/main/Computer_vision)
